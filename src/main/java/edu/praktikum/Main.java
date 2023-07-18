@@ -1,4 +1,4 @@
-package edu.praktikum.collections;
+package edu.praktikum;
 
 public class Main {
 
